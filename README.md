@@ -1,0 +1,2 @@
+This Inventory Web Application offers a complete solution for managing inventory levels, orders, and product details through an intuitive web interface. Tailored for businesses of various scales, it simplifies inventory management, enabling efficient monitoring of stock levels, order tracking, and real-time product information management.
+The frontend is written in React.js and backend is written in Java Spring Boot
